@@ -73,7 +73,7 @@ setup(
         'scipy~=0.18',
         'gensim~=0.13',
         'scikit-learn~=0.18',
-        'keras~=2.1.6',
+        'keras>=2.2.4',
         'h5py~=2.6',
         'tensorflow~=1.11.0'
     ],
